@@ -1,1 +1,13 @@
+.logo{
+           width: 80px;
+           height: 80px;
+           border-radius: 100px;
+           transition: transform .5s;
+       }
+       .logo:hover{
+        transform: scale(2);
+       }
+        .jumbotron{
+               background-image: url(https://wallpaperaccess.com/full/731628.jpg);
+        }
 
